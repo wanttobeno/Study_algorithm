@@ -14,7 +14,7 @@
 
 
 <p align="center">
-	<img src="mihanshu.jpG">
+	<img src="mihanshu.jpg">
 	</img>
 </p>
 
