@@ -3,3 +3,19 @@
 
 
 [Fork form LeechanX](https://github.com/LeechanX/Data-Structures-and-Algorithms-in-C)
+
+
+##### 找出最小/大的K个
+
+[heapsort_k_big.c](./Sort/SortApplication/heapsort_k_big.c)
+
+[heapsort_k_small.c](./Sort/SortApplication/heapsort_k_small.c)
+
+[quicksort_k_big.c](./Sort/SortApplication/quicksort_k_big.c)
+
+[quicksort_k_small.c](./Sort/SortApplication/quicksort_k_small.c)
+
+
+
+
+
